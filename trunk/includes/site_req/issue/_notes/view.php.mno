@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_get_site_req" value="name:first_name;datatype:string,name:last_name;datatype:string,name:created_date;datatype:datetime,name:id;datatype:int,name:name;datatype:string,name:req_no;datatype:string,name:id;datatype:int,name:approved_by;datatype:int" />
+</info>

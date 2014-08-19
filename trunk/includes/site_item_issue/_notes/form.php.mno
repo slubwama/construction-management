@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_item" value="name:id;datatype:int,name:name;datatype:string,name:restorck_level;datatype:real,name:created_by;datatype:int,name:created_date;datatype:datetime,name:deleted_by;datatype:int,name:delete_date;datatype:datetime,name:record_status;datatype:string" />
+	<infoitem key="UD_get_issued_by_id" value="name:id;datatype:int,name:site_id;datatype:int,name:item_id;datatype:int,name:approved_by;datatype:int,name:approval_date;datatype:datetime,name:qty_issued;datatype:int,name:created_by;datatype:int,name:deleted_by;datatype:int,name:deleted_date;datatype:datetime,name:created_date;datatype:datetime,name:record_status;datatype:string" />
+</info>

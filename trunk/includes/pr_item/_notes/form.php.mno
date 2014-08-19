@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_item" value="name:id;datatype:int,name:name;datatype:string,name:created_by;datatype:int,name:created_date;datatype:datetime,name:deleted_by;datatype:int,name:delete_date;datatype:datetime,name:record_status;datatype:string" />
+	<infoitem key="UD_supplier" value="name:id;datatype:int,name:location_id;datatype:int,name:person_id;datatype:int,name:name;datatype:string,name:deleted_by;datatype:int,name:delete_date;datatype:datetime,name:created_by;datatype:int,name:created_date;datatype:datetime,name:record_status;datatype:string" />
+	<infoitem key="UD_unit" value="name:id;datatype:int,name:name;datatype:string,name:qty_in_kg;datatype:int,name:created_by;datatype:int,name:created_date;datatype:datetime,name:deleted_by;datatype:int,name:delete_date;datatype:datetime,name:record_status;datatype:string" />
+</info>

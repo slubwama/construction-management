@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_get_subjects" value="name:id;datatype:int,name:name;datatype:blob,name:is_core;datatype:int" />
+	<infoitem key="UD_get_loggedin_user" value="name:first_name;datatype:string,name:last_name;datatype:string,name:name;datatype:string" />
+</info>

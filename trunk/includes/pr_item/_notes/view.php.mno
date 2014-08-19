@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_get_pr_item" value="name:unit_of_measure_id;datatype:int,name:unit_name;datatype:string,name:supplier_name;datatype:string,name:amount;datatype:real,name:qty_required;datatype:real,name:qty_recieved;datatype:real,name:item_name;datatype:string" />
+</info>

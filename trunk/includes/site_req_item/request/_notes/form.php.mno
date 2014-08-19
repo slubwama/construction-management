@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_item" value="name:id;datatype:int,name:name;datatype:string,name:restock_level;datatype:real,name:created_by;datatype:int,name:created_date;datatype:datetime,name:deleted_by;datatype:int,name:delete_date;datatype:datetime,name:record_status;datatype:string" />
+	<infoitem key="UD_unit" value="name:id;datatype:int,name:name;datatype:string,name:qty_in_kg;datatype:real,name:created_by;datatype:int,name:created_date;datatype:datetime,name:deleted_by;datatype:int,name:delete_date;datatype:datetime,name:record_status;datatype:string" />
+	<infoitem key="UD_site_req_item_by_id" value="name:id;datatype:int,name:item_id;datatype:int,name:qty_required;datatype:real,name:qty_issued;datatype:real,name:qty_recieved;datatype:real,name:site_req_id;datatype:int,name:unit_of_measure_id;datatype:int,name:deleted_by;datatype:int,name:delete_date;datatype:datetime,name:created_by;datatype:int,name:created_date;datatype:datetime,name:record_status;datatype:string" />
+</info>

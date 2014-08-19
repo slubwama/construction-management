@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_subjects" value="name:id;datatype:int,name:name;datatype:blob,name:is_core;datatype:int" />
+	<infoitem key="UD_grades" value="name:id;datatype:int,name:name;datatype:string,name:value;datatype:int" />
+	<infoitem key="UD_core_subjects" value="name:id;datatype:int,name:name;datatype:blob,name:is_core;datatype:string" />
+	<infoitem key="UD_elective_subjects" value="name:id;datatype:int,name:name;datatype:blob,name:is_core;datatype:string" />
+	<infoitem key="UD_get_math_english" value="name:id;datatype:int" />
+	<infoitem key="UD_get_math" value="name:id;datatype:int" />
+	<infoitem key="UD_get_english" value="name:id;datatype:int" />
+	<infoitem key="UD_combinations" value="name:id;datatype:int,name:name;datatype:blob,name:is_science;datatype:string" />
+</info>

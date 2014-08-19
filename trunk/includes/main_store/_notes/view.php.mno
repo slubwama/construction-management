@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_main_store" value="name:name;datatype:string,name:qty_issued;datatype:real,name:created_date;datatype:datetime,name:qty_recieved;datatype:real,name:balance;datatype:real,name:id;datatype:int" />
+</info>

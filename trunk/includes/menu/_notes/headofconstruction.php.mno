@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_purchase_request" value="name:id;datatype:int,name:req_no;datatype:string,name:supplier_id;datatype:int,name:delivery_note_no;datatype:string,name:delivery_note_url;datatype:blob,name:deleted_by;datatype:int,name:delete_date;datatype:datetime,name:created_by;datatype:int,name:approved_by;datatype:int,name:received_by;datatype:int,name:created_date;datatype:datetime,name:approved_date;datatype:datetime,name:approved;datatype:string,name:receive_date;datatype:datetime,name:record_status;datatype:string" />
+</info>
