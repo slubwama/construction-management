@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_item" value="name:id;datatype:int,name:name;datatype:string,name:created_by;datatype:int,name:created_date;datatype:datetime,name:deleted_by;datatype:int,name:delete_date;datatype:datetime,name:record_status;datatype:string" />
+	<infoitem key="UD_purchase_req_last_insert" value="name:id;datatype:int,name:req_no;datatype:string,name:delivery_note_no;datatype:string,name:delivery_note_url;datatype:blob,name:deleted_by;datatype:int,name:delete_date;datatype:datetime,name:created_by;datatype:int,name:approved_by;datatype:int,name:recieved_by;datatype:int,name:created_date;datatype:datetime,name:approved_date;datatype:datetime,name:recieve_date;datatype:datetime,name:record_status;datatype:string" />
+	<infoitem key="UD_supplier" value="name:id;datatype:int,name:location_id;datatype:int,name:person_id;datatype:int,name:name;datatype:string,name:deleted_by;datatype:int,name:delete_date;datatype:datetime,name:created_by;datatype:int,name:created_date;datatype:datetime,name:record_status;datatype:string" />
+</info>

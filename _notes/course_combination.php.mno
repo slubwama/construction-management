@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_get_combination" value="name:id;datatype:int,name:name;datatype:blob,name:is_science;datatype:int" />
+	<infoitem key="UD_get_course" value="name:id;datatype:int,name:name;datatype:blob,name:institute_id;datatype:int" />
+</info>

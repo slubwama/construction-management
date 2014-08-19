@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_manager" value="name:first_name;datatype:string,name:last_name;datatype:string,name:id;datatype:int" />
+	<infoitem key="UD_location" value="name:id;datatype:int,name:plot_no;datatype:blob,name:town;datatype:string,name:village;datatype:string,name:deleted_by;datatype:int,name:delete_date;datatype:datetime,name:created_by;datatype:int,name:created_date;datatype:datetime,name:record_status;datatype:string" />
+</info>

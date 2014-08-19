@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_site_req_last_insert" value="name:id;datatype:int,name:req_no;datatype:int,name:site_id;datatype:int,name:delivery_note_no;datatype:string,name:delivery_note_url;datatype:blob,name:deleted_by;datatype:int,name:delete_date;datatype:datetime,name:created_by;datatype:int,name:approved_by;datatype:int,name:recieved_by;datatype:int,name:created_date;datatype:datetime,name:approved_date;datatype:datetime,name:recieve_date;datatype:datetime,name:record_status;datatype:string" />
+	<infoitem key="UD_site" value="name:id;datatype:int,name:name;datatype:string,name:start_date;datatype:date,name:completion_date;datatype:date,name:site_manager;datatype:int,name:deleted_by;datatype:int,name:delete_date;datatype:datetime,name:created_by;datatype:int,name:created_date;datatype:datetime,name:record_status;datatype:string,name:locaction_id;datatype:int" />
+	<infoitem key="UD_get_site" value="name:id;datatype:int,name:name;datatype:string" />
+</info>

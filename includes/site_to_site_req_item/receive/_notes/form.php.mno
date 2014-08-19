@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_get_site_store_by_site_to_site_req_id" value="name:id;datatype:int,name:item_id;datatype:int,name:site_id;datatype:int,name:site_req_item_id;datatype:int,name:site_item_issue_id;datatype:int,name:site_item_return_id;datatype:int,name:site_to_site_req_item_id;datatype:int,name:previous_id;datatype:int,name:next_id;datatype:int,name:balance;datatype:int,name:created_by;datatype:int,name:deleted_by;datatype:int,name:deleted_date;datatype:datetime,name:created_date;datatype:datetime,name:record_status;datatype:string" />
+</info>

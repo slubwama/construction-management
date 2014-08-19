@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:username;datatype:string,name:password;datatype:string,name:person_id;datatype:int,name:role_id;datatype:int,name:created_by;datatype:int,name:created_date;datatype:datetime,name:record_status;datatype:string,name:deleted_by;datatype:int,name:delete_date;datatype:datetime" />
+	<infoitem key="UD_role" value="name:id;datatype:int,name:name;datatype:string,name:created_by;datatype:int,name:created_date;datatype:datetime,name:deleted_date;datatype:datetime,name:deleted_by;datatype:int,name:record_status;datatype:string" />
+	<infoitem key="UD_get_person_last_insert" value="name:id;datatype:int" />
+	<infoitem key="UD_site" value="name:id;datatype:int,name:name;datatype:string,name:start_date;datatype:date,name:completion_date;datatype:date,name:site_manager;datatype:int,name:deleted_by;datatype:int,name:delete_date;datatype:datetime,name:created_by;datatype:int,name:created_date;datatype:datetime,name:record_status;datatype:string,name:locaction_id;datatype:int" />
+	<infoitem key="UD_user_by_id" value="name:id;datatype:int,name:username;datatype:string,name:password;datatype:string,name:person_id;datatype:int,name:role_id;datatype:int,name:site_id;datatype:int,name:created_by;datatype:int,name:created_date;datatype:datetime,name:record_status;datatype:string,name:deleted_by;datatype:int,name:delete_date;datatype:datetime" />
+</info>

@@ -1,0 +1,452 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:#fff;
+	margin-top:0px;
+	margin-left:0;
+	margin-right:0;
+	margin-bottom:0;
+	}
+	.header{
+		width:100%;
+		background:#fff;
+		margin-left:auto;
+		margin-right:auto;
+		height:127px;
+		}
+	.main_menu{
+		width:100%;
+		height:30px;
+		background:#000;
+		color:#FFF;
+		margin-bottom:5px;
+		}
+		.inner_menu{
+			width:80%;
+			margin-left:auto;
+			margin-right:auto;	
+			}
+		#logout:a{
+		color:#FFF;	
+			}
+		
+		.inner_header{
+			width:80%;
+			margin-left:auto;
+			margin-right:auto;	
+			}
+		
+		#site_title{		
+		float:left;/*fix for  buggy browsers*/
+		display:table-column;
+			color:#000;
+			font-size:24px;
+			font-family:BankGothic Md BT;
+			width:70%
+		}
+	.page_title_bar{
+		width:100%;
+		background:#933;
+		margin-bottom:5px;
+		font-size:18px;
+		font-weight:bold;
+		}
+		
+	.page_title{
+		color:#000;
+		margin-left:10px;
+		}
+		
+	.content{
+		width:90%;
+		margin-left:auto;
+		margin-right:auto;
+		}
+		#top_link{	
+			float:right;/*fix for  buggy browsers*/
+			display:table-column;		
+			color:#FFF;
+			font-size:15px;
+			font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+			width:30%;
+			}
+			
+			a:links_body{
+				color:color:#663300;
+				font-family:Arial, Helvetica, sans-serif;
+				font-size:16px;
+				}
+			
+.links{
+	color:#663300;
+	font-size:16px;
+	font-family:Arial, Helvetica, sans-serif;
+	width:90%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	}
+			
+.home_wrap{
+	background:url(images/back.png);
+	min-height:600px;
+	margin-left:auto;
+	margin-right:auto;
+	width:40%;
+	margin-top:20px;
+	padding:10px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:16px;
+	text-align:justify;
+	}
+
+.tab_outer{
+	width:100%;
+	}
+	
+#text_field{
+	width:70%;
+	height:30px;
+	margin-top:30px;
+		}
+		
+#submit{
+	width:40%;
+	height:50px;
+	margin-top:30px;
+			}
+.normal_titles{
+	font-size:16px;
+	font-weight:bold;
+	margin-bottom:10px;
+	color:#06F;
+	}
+	
+.end{
+		margin-top:10px;
+		}
+		.tab_column{
+	float:left;/*fix for  buggy browsers*/
+	display:table-column;
+	margin-left:auto;
+	margin-right:auto;
+	width:25%;
+	padding-left:5px;
+	padding-right:5px;
+	}
+	
+	
+	
+	button:hover, button:focus, input[type="submit"]:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:focus, input[type="button"]:focus, input[type="reset"]:focus {
+    background: linear-gradient(to bottom, #ED6A31 0%, #E55627 100%) repeat scroll 0% 0% transparent;
+    outline: medium none;
+}
+button, input[type="submit"], input[type="button"], input[type="reset"] {
+    background: linear-gradient(to bottom, #09F 0%, #00C 100%) repeat scroll 0% 0% transparent;
+    border-width: medium medium 3px;
+    border-style: none none solid;
+    border-color: -moz-use-text-color -moz-use-text-color #06F;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    border-radius: 2px;
+    color: #FFF;
+    display: inline-block;
+    padding: 11px 24px 10px;
+    text-decoration: none;
+}
+button, html input[type="button"], input[type="reset"], input[type="submit"] {
+    cursor: pointer;
+}
+
+
+		#table_area{
+				float:left;/*fix for  buggy browsers*/
+	display:table-column;
+
+	width:65%;
+	padding-left:5px;
+	padding-right:5px;
+			
+			
+			}
+		#form_area{
+				float:left;/*fix for  buggy browsers*/
+	display:table-column;
+
+	width:32%;
+	padding-left:5px;
+	padding-right:5px;
+			
+			}
+			
+		.admin_wrap{
+		background:url(images/back.png);
+		margin-left:auto;
+		margin-right:auto;
+		width:100%;
+		padding-top:10px;	
+			}
+		.tile_name{
+		width:100%;
+		font-weight:normal;
+		font-size:17px;
+		}
+		#tile{
+			width:80px;
+			height:auto;
+			margin-right:50px;
+			margin-bottom:50px;
+			border:#000 5px solid;
+			border-radius:10px;
+			}
+			
+		#tile:hover{
+			width:80px;
+			height:auto;
+			opacity:0.5;
+			margin-right:50px;
+			margin-bottom:50px;
+			border:#000 5px solid;
+			border-radius:10px;
+			transition: all 1s linear 0s;
+			background:#0C3;
+			}
+			
+	.innertable{
+		display:table;
+		width:100%;
+			}
+	.innerrow{
+			display:table-row;
+			width:100%;
+			}
+	.innercolumn{
+				display:table-column;
+				float:left;
+				text-align: left;
+				vertical-align:central;
+			}
+		#add_forms{
+			height:35px;
+			width:150px;
+			margin-bottom:5px;
+			background: linear-gradient(to bottom, #060 0%, #000 100%) repeat scroll 0% 0% transparent;
+			}
+				
+		#add_forms:hover{
+		height:35px;
+		width:150px;
+		margin-bottom:5px;
+		background: linear-gradient(to bottom, #000 0%, #000 100%) repeat scroll 0% 0% transparent;
+		}
+				
+				.page_title{	
+					}
+					
+										/*Menus Open*/
+
+.ddsmoothmenu{
+}
+
+.ddsmoothmenu ul{
+	z-index: 100;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+/*Top level list items*/
+.ddsmoothmenu ul li{
+	position: relative;
+	display: inline;
+	float: left;
+}
+
+/*Top level menu link items style*/
+.ddsmoothmenu ul li a {
+	display: block;
+	height: 30px;
+	width: 100px;
+	margin-left: 5px;
+	line-height: 30px;
+	font-size: 13px;
+	font-family: century gothic;
+	color:#FFF;	
+	text-align: center;
+	text-decoration: none;
+	font-weight: 400;
+	outline: none;
+}
+
+* html .ddsmoothmenu ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
+display: inline-block;
+}
+
+.ddsmoothmenu ul li a.selected, .ddsmoothmenu ul li a:hover { /*CSS class that's dynamically added to the currently active menu items' LI A element*/
+	color: #fff;
+}
+
+/*1st sub level menu*/
+.ddsmoothmenu ul li ul {
+	position: absolute;
+	width: 178px;
+	padding: 0 2px;	
+	margin: 10px 0 0 5px;
+	display: none; /*collapse all sub menus to begin with*/
+	visibility: hidden;
+	background: #000;;
+}
+.ddsmoothmenu ul li ul span {
+	position: absolute;
+	width: 182px;
+	height: 5px;
+}
+.ddsmoothmenu ul li ul span.top {
+	top: -5px;
+	left: 0;
+}
+.ddsmoothmenu ul li ul span.bottom {
+	bottom: -5px;
+	left: 0;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.ddsmoothmenu ul li ul li{
+display: list-item;
+float: none;
+}
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.ddsmoothmenu ul li ul li ul{
+top: 0;
+}
+
+/* Sub level menu links style */
+.ddsmoothmenu ul li ul li a{
+	font-weight: 500;
+	width: 138px; /*width of sub menus*/
+	height: 35px;
+	padding: 0 20px;
+	margin: 0;
+	line-height: 35px;
+	font-size: 12px;
+	text-align: left;
+	background: none;
+	color: #FFF;
+}
+
+.ddsmoothmenu ul li ul li .last {
+	border-bottom: none;
+}
+
+.ddsmoothmenu ul li ul li a.selected, .ddsmoothmenu ul li ul li a:hover {
+	color: #FFF;
+	background: url(images/templatemo_smhover.png) no-repeat
+}
+
+/* Holly Hack for IE \*/
+* html .ddsmoothmenu{height: 1%;} /*Holly Hack for IE7 and below*/
+
+
+/* ######### CSS classes applied to down and right arrow images  ######### */
+
+.downarrowclass{
+position: absolute;
+top: 12px;
+right: 7px;
+}
+
+.rightarrowclass{
+position: absolute;
+top: 6px;
+right: 5px;
+}
+
+/* ######### CSS for shadow added to sub menus  ######### */
+
+.ddshadow{
+position: absolute;
+left: 0;
+top: 0;
+width: 0;
+height: 0;
+}
+
+.toplevelshadow{ /*shadow opacity. Doesn't work in IE*/
+opacity: 0.5;
+}
+
+/* menu Close*/
+
+.box{
+			background: none repeat scroll 0% 0% #F7F6F6;
+padding: 15px;
+border-right: 1px solid #DEDEDE;
+border-width: medium 1px 1px;
+border-style: none solid solid;
+border-color: -moz-use-text-color #DEDEDE #DEDEDE;
+-moz-border-top-colors: none;
+-moz-border-right-colors: none;
+-moz-border-bottom-colors: none;
+-moz-border-left-colors: none;
+border-image: none;
+color:#000;
+border-bottom-right-radius: 3px;
+border-bottom-left-radius: 3px;
+overflow: hidden;
+margin-bottom: 19px;
+			}
+		.form_title{
+	background: linear-gradient(to bottom, #09F 0%, rgba(5, 5, 53, 1) 100%) repeat scroll 0% 0% transparent;
+border-width: medium medium 3px;
+border-style: none none solid;
+border-color: -moz-use-text-color -moz-use-text-color #06F;
+-moz-border-top-colors: none;
+-moz-border-right-colors: none;
+-moz-border-bottom-colors: none;
+-moz-border-left-colors: none;
+border-image: none;
+border-radius: 2px;
+color: #FFF;
+display: inline-block;
+padding: 11px 24px 10px;
+text-decoration: none;
+width:96%;
+margin-left:auto;
+margin-right:auto;
+			}
+			
+			
+#edit_forms{
+height:18px;
+width:50px;
+font-size:10px;
+margin-bottom:1px;
+background: linear-gradient(to bottom, #66F 0%, #000 100%) repeat scroll 0% 0% transparent;
+padding:0px;
+}
+
+
+
+#delete_forms{
+margin-top:1px;
+height:18px;
+font-size:10px;
+width:50px;
+margin-bottom:1px;
+background: linear-gradient(to bottom, #F00 0%, #000 100%) repeat scroll 0% 0% transparent;
+padding:0px;
+}
+		.module_title{
+		width:100%;
+		height:20px;
+		background:#000;
+		color:#FFF;
+		}
+		
+		.counter{
+			color:#F00;
+			}

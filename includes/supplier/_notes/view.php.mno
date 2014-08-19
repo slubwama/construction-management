@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_supplier" value="name:name;datatype:string,name:first_name;datatype:string,name:last_name;datatype:string,name:gender;datatype:string,name:email;datatype:blob,name:phone_no;datatype:string,name:username;datatype:string" />
+</info>

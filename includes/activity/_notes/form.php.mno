@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_activity_by_id" value="name:id;datatype:int,name:name;datatype:string,name:deleted_by;datatype:int,name:delete_date;datatype:datetime,name:created_by;datatype:int,name:created_date;datatype:datetime,name:record_status;datatype:string" />
+</info>

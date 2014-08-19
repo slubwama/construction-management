@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_role_by_id" value="name:id;datatype:int,name:name;datatype:string,name:created_by;datatype:int,name:created_date;datatype:datetime,name:deleted_date;datatype:datetime,name:deleted_by;datatype:int,name:record_status;datatype:string" />
+</info>

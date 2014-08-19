@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_manager" value="name:first_name;datatype:string,name:last_name;datatype:string,name:id;datatype:int,name:user_id;datatype:int" />
+</info>
